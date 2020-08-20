@@ -18,4 +18,6 @@ python jarvis.py
 or  
 download  https://github.com/iParthaSarathi/jarvis/archive/master.zip   
 cd folder_name  
-python jarvis.py
+python jarvis.py  
+
+jarvis a simple command line assistant talk with him ,teach him , ask qustion , he will remember your name and the things you teach next time you say your name
