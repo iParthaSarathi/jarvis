@@ -16,6 +16,6 @@ source my_env/bin/activate
 cd foldername  
 python jarvis.py  
 or  
-use  https://github.com/iParthaSarathi/jarvis/archive/master.zip 
-cd jarvis
+download  https://github.com/iParthaSarathi/jarvis/archive/master.zip   
+cd folder_name  
 python jarvis.py
