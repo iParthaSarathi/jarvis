@@ -2,8 +2,7 @@ import pyttsx3
 import time
 import json
 import os.path
-import wikipedia
-from googlesearch import search
+import wikipedia 
 converter = pyttsx3.init()
 converter.setProperty('rate', 120)
 converter.setProperty('volume', 1)
