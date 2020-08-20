@@ -237,6 +237,9 @@ while lp==1 :
        elif ((('who' in task )or ('Who' in task) or ('WHO' in task)) and (('create' in task) or ('Create' in task) or ('CREATE' in task))  and (('you' in task) or ('YOU' in task) or ('You' in task))) :
           converter.say('I am jarvis, Developed by Mr. Green, a,k,a, partha')
           converter.runAndWait()
+       elif ((('who' in task )or ('Who' in task) or ('WHO' in task)) and (('i' in task) or ('I' in task))  and (('am' in task) or ('AM' in task) or ('Am' in task))) :
+          converter.say(res+', You are ,'+name)
+          converter.runAndWait()
        
 
 
