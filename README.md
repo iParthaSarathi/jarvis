@@ -12,6 +12,15 @@ cd environments
 python3 -m venv my_env  
 ls my_env  
 source my_env/bin/activate  
+  
+ Module
+--------------------------  
+import pyttsx3 => pip install pyttsx3  
+import time  
+import json  
+import os.path  
+import wikipedia => pip install wikipedia  
+
 [create a folder for jarvis it will create  its own data for every user to remember things]
 cd foldername  
 python jarvis.py  
